@@ -1,12 +1,12 @@
 # POPC-examples-python
 [POPC examples](https://github.com/pepe78/POPC-examples) written in python (due to high demand)
 
-![ex1kmeans](ex1kmeans.png)
-![ex1popc](ex1popc.png)
-![ex2kmeans](ex2kmeans.png)
-![ex2popc](ex2popc.png)
-![ex3kmeans](ex3kmeans.png)
-![ex3popc](ex3popc.png)
+![ex1kmeans](./pics/ex1kmeans.png)
+![ex1popc](./pics/ex1popc.png)
+![ex2kmeans](./pics/ex2kmeans.png)
+![ex2popc](./pics/ex2popc.png)
+![ex3kmeans](./pics/ex3kmeans.png)
+![ex3popc](./pics/ex3popc.png)
 
 References:
 * P. Taraba: [Powered Outer Probabilistic Clustering](http://www.iaeng.org/publication/WCECS2017/WCECS2017_pp394-398.pdf), Proceedings of the World Congress on Engineering and Computer Science, IAENG, October 2017 [[best paper award](http://www.iaeng.org/WCECS2017/awards.html)]
